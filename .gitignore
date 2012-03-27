@@ -1,0 +1,10 @@
+Debug/*
+*.sdf
+*.sln
+*.suo
+*.opensdf
+OSProject/Debug/*
+*.vcxproj*
+*.ipch*
+ext2_fs.h
+*.ext2*
